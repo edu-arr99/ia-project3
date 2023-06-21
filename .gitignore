@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode,clion
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,visualstudiocode,clion
 
-datasets/
+!datasets/
 
 cmake-build-debug/
 .idea/
